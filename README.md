@@ -23,9 +23,9 @@ class NukkiTanuki():
     
   def __init__(self):
     self.name = "Nukki Tanuki";
-    self.username = "tanukofi";
+    self.username = "Tanukofi";
     self.location = "Moscow, Russian Federation";
-    self.vkontakte = "https://vk.com/nukkitanuki";
+    self.social = "https://vk.com/nukkitanuki";
     self.project = "https://hodwini.fun";
   
   def __str__(self):
