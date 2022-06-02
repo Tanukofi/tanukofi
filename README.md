@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, i'm Nukki! 😮
 
-<!--
-**Tanukofi/tanukofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I am a beginner Python developer, my goal for this year is to reach the Junior Developer level. 
+You can monitor my progress by browsing my [repositories](https://github.com/Tanukofi?tab=repositories), where I will post my successful projects. I have two dreams! To drink whiskey with Elon Musk and to go to space. 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobby
+
+- 📚 Reading books.
+- 🌌 Studying astronomy.
+- 🔧 Developing Minecraft servers.
+- 🗻 Climbing.
+
+## Rapidfire
+
+- 💼 Currently, I work at [Hodwini](https://hodwini.fun).
+- 💭 I also have my own [Discord Server](https://discord.gg/8rDrnz6D7u).
