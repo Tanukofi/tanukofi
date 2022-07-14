@@ -12,10 +12,12 @@ You can monitor my progress by browsing my [repositories](https://github.com/Tan
 - 🌌 Studying astronomy.
 - 🔧 Developing Minecraft servers.
 - 🗻 Climbing.
+- 🧠 Social Enginering.
 
 ## Rapidfire
 
 - 💼 ~Currently, I work at [Hodwini](https://hodwini.ru).~
+- 💼Currently, I work art [Hilimiko!](https://hiliiko.net).
 - 💭 I also have my own [Discord Server](https://discord.gg/8rDrnz6D7u).
 
 ```python
