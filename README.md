@@ -15,7 +15,7 @@ You can monitor my progress by browsing my [repositories](https://github.com/Tan
 
 ## Rapidfire
 
-- 💼 Currently, I work at [Hodwini](https://hodwini.fun).
+- 💼 ~Currently, I work at [Hodwini](https://hodwini.ru).~
 - 💭 I also have my own [Discord Server](https://discord.gg/8rDrnz6D7u).
 
 ```python
