@@ -1,4 +1,4 @@
-# Hey, i'm Nukki! 😮
+# Welcome to my GitProfile! 😁
 
 ## About me
 
